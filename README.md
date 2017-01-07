@@ -52,7 +52,7 @@ Usage
 ```
 
 The third option will extract the kernel from the given prelinkedkernel.
-The fourth option will extract the dictionary containg the Info.plist of all kexts.
+The fourth option will extract the dictionary containing the Info.plist of all kexts.
 The last option will extract all kexts in its current format, saved in subdirectory with the name kexts.
 
 
